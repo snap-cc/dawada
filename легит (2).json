@@ -1,0 +1,130 @@
+{
+    "settings": {
+        "esp_rendering": 1,
+        "esp_mode": 0,
+        "esp_box_rendering": 0,
+        "line_rendering": 0,
+        "hp_bar_rendering": 1,
+        "head_hitbox_rendering": 0,
+        "skeleton_rendering": 1,
+        "show_names": 1,
+        "show_weapons": 1,
+        "trigger_bot_enabled": 1,
+        "trigger_bot_min_delay": 50,
+        "trigger_bot_random_delay": 51,
+        "trigger_attack_all": 0,
+        "aimbot_enabled": 1,
+        "aimbot_target": 6,
+        "aimbot_fov": 29,
+        "aimbot_smoothness": 3,
+        "enemy_color": [
+            1.0,
+            0.0,
+            0.0
+        ],
+        "ally_color": [
+            0.0,
+            1.0,
+            0.0
+        ],
+        "head_hitbox_color": [
+            1.0,
+            1.0,
+            0.0
+        ],
+        "esp_box_color": [
+            1.0,
+            0.0,
+            0.0
+        ],
+        "skeleton_color": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "name_color": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "weapon_color": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "hp_bar_color": [
+            0.0,
+            1.0,
+            0.0
+        ],
+        "fov_radius_color": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "esp_box_size": 1,
+        "skeleton_size": 2.6259541984732824,
+        "name_position": "top",
+        "weapon_position": "bottom",
+        "hp_bar_position": "right",
+        "bind_aim_key": "None",
+        "bind_trigger_key": "None",
+        "bind_esp_key": "None",
+        "bind_menu_key": "Insert",
+        "bhop_enabled": 1,
+        "hitsound_enabled": 0,
+        "hitsound_play_damage": 0,
+        "hitsound_play_kill": 0,
+        "hitsound_play_team": 0,
+        "hitsound_play_all": 1,
+        "hitsound_file": "default",
+        "show_fov_radius": 1,
+        "update_settings": true
+    },
+    "switches": {
+        "esp": 1,
+        "esp_mode": 0,
+        "esp_box": 0,
+        "line": 0,
+        "hp_bar": 1,
+        "head_hitbox": 0,
+        "skeleton": 1,
+        "show_names": 1,
+        "show_weapons": 1,
+        "trigger_bot": 1,
+        "trigger_attack_all": 0,
+        "aimbot": 1,
+        "bhop": 1,
+        "hitsound": 0,
+        "hitsound_damage": 0,
+        "hitsound_kill": 0,
+        "hitsound_team": 0,
+        "hitsound_all": 1,
+        "show_fov_radius": 1
+    },
+    "colors": {
+        "enemy": "FF0000",
+        "ally": "00FF00",
+        "head_hitbox": "FFFF00",
+        "box": "FF0000",
+        "skeleton": "FFFFFF",
+        "name": "FFFFFF",
+        "weapon": "FFFFFF",
+        "hp_bar": "00FF00",
+        "fov_radius": "FFFFFF"
+    },
+    "positions": {
+        "name": "top",
+        "weapon": "bottom",
+        "hp": "right"
+    },
+    "binds": {
+        "aim_key": "None",
+        "trigger_key": "None",
+        "esp_key": "None",
+        "menu_key": "Insert"
+    },
+    "hitsound": {
+        "file": "default"
+    }
+}
